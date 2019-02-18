@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wirecard.issuing.utils:spring-lifecycle-utils:1.0.5+430cee">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wirecard/issuing/utils/spring-lifecycle-utils/1.0.5+430cee/spring-lifecycle-utils-1.0.5+430cee.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wirecard/issuing/utils/spring-lifecycle-utils/1.0.5+430cee/spring-lifecycle-utils-1.0.5+430cee-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wirecard/issuing/utils/spring-lifecycle-utils/1.0.5+430cee/spring-lifecycle-utils-1.0.5+430cee-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -30,9 +30,6 @@ public class CatfishCommands {
     }
 
     public void unlockAccount() {
-//        User user = LionUserUtil
-//                .getUserWithDeterminedAliasType(new com.wirecard.catfish.entities.Brand("boon"),
-//                        "+"+number, pwd);
         CallCenterCustomerCountersService cccs = new CallCenterCustomerCountersService();
         cccs.reset(user, CallCenterCustomerCountersService.CounterType.NUM_FAILED_LOGINS);
         cccs.reset(user, CallCenterCustomerCountersService.CounterType.NUM_FAILED_SECURITY_ANSWERS);

@@ -17,7 +17,7 @@ public class CatfishCommands {
     CatfishCommands(String number, String pwd) {
         user = LionUserUtil
                 .getUserWithDeterminedAliasType(new com.wirecard.catfish.entities.Brand("boon"),
-                        "+" + number, pwd);
+                        "+" + number.trim(), pwd.trim());
     }
 
 
